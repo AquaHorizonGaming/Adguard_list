@@ -492,6 +492,13 @@ mms.mycricket.com
 mms.t-mobile.com
 mms.uscc.net
 
+# ==================================================
+# Debrid/Riven-Allow
+# ==================================================
+
+# --- Scraper/Indexers --- 
+comet.feels.legal
+
 
 ! =====================================================================
 ! END MASTER UNBLOCK / WHITELIST
