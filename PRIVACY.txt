@@ -1,0 +1,113 @@
+! ==========================================
+! LOSTHOSTING - AGGRESSIVE PRIVACY BLOCKLIST
+! Ads, Telemetry, Smart TVs, Mobile Tracking,
+! Analytics, Facebook, TikTok, Microsoft,
+! Apple Analytics, Xiaomi, Huawei, Vivo
+! ==========================================
+
+! Samsung
+||samsungads.com^
+||config.samsungads.com^
+||ads.samsung.com^
+||log-ingestion.samsungacr.com^
+
+! LG
+||lgsmartad.com^
+||us.ad.lgsmartad.com^
+||aic.lgsmartad.com^
+
+! Roku
+||rokuad.com^
+||ads.roku.com^
+||logs.roku.com^
+||cloudservices.roku.com^
+
+! Amazon
+||ads.amazon-adsystem.com^
+||device-metrics-us.amazon.com^
+
+! Smart TV Tracking
+||tvinteractive.tv^
+||smarttv-data.com^
+||samba.tv^
+||scorecardresearch.com^
+
+! Google Ads
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||pagead2.googlesyndication.com^
+
+! Microsoft Telemetry
+||v10.events.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+||settings-win.data.microsoft.com^
+||mobile.events.data.microsoft.com^
+||browser.events.data.microsoft.com^
+
+! Apple Analytics
+||metrics.icloud.com^
+||metrics.apple.com^
+||guzzoni.apple.com^
+||configuration.apple.com^
+||xp.apple.com^
+
+! Android / Google Telemetry
+||app-measurement.com^
+||firebaseinstallations.googleapis.com^
+||firebaselogging.googleapis.com^
+||google-analytics.com^
+||analytics.google.com^
+||googletagmanager.com^
+
+! Facebook / Meta
+||graph.facebook.com^
+||connect.facebook.net^
+||facebook-analytics.com^
+||analytics.facebook.com^
+
+! TikTok
+||log.byteoversea.com^
+||analytics.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+
+! Xiaomi
+||tracking.miui.com^
+||data.mistat.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+
+! Huawei
+||metrics.data.hicloud.com^
+||logservice.hicloud.com^
+
+! Vivo
+||wifi.vivo.com.cn^
+||stsdk.vivo.com.cn^
+
+! Additional Analytics
+||conviva.com^
+||branch.io^
+||adjust.com^
+||appsflyer.com^
+||mixpanel.com^
+||segment.io^
+||amplitude.com^
+
+! Generic Telemetry
+||telemetry.microsoft.com^
+||telecommand.telemetry.microsoft.com^
+||oca.telemetry.microsoft.com^
+||sqm.telemetry.microsoft.com^
+||watson.microsoft.com^
+
+! Misc Tracking
+||quantserve.com^
+||crashlytics.com^
+||newrelic.com^
+||segment.com^
+||hotjar.com^
+||fullstory.com^
+||optimizely.com^
+||cdn.optimizely.com^
+||bam.nr-data.net^
